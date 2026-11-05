@@ -1,7 +1,9 @@
 # G02 – Smart City Infrastructure Consultancy
 
 This is **Part 2** of our Group Project for COS-10026.  
-[Part 2 ](https://www.linkedin.com/in/pyae-khant-kyaw-591726390/](https://github.com/pyaekhantkyaw/G02-Smart-City-Infrastructure-Consultancy-Part1-Group2.git))
+Here is 
+[Part 1](https://www.linkedin.com/in/pyae-khant-kyaw-591726390/](https://github.com/pyaekhantkyaw/G02-Smart-City-Infrastructure-Consultancy-Part1-Group2.git))
+
 We are **Group 2** (WebSec - Urban Tech Innovators), and our website focuses on **recruitment for smart city infrastructure**.
 
 Our company name: **UrbanSync Infrastructure Consultancy**
@@ -30,7 +32,9 @@ UrbanSync Infrastructure Consultancy is a recruitment platform designed to conne
 ## 🛠 Tech Stack
 - HTML5  
 - CSS3 (Flexbox + Grid)
-
+- PHP
+- MySQL
+  
 ---
 ## 📜 License
 This project is for educational purposes under COS‑10026.
